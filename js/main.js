@@ -6,7 +6,6 @@ const $userName = document.querySelector(".user-name")
 const $logInForm = document.getElementById("logInForm")
 const $inputLogin = document.getElementById("login")
 const $inputPassword = document.getElementById("password")
-const $labelAuth = document.querySelector(".label-auth")
 const $warningLogin = document.querySelector(".warning-login")
 const $warningPassword = document.querySelector(".warning-password")
 
