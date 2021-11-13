@@ -1,1 +1,1 @@
-#simple food market on pure JS
+#Simple responsive food delivery service website on vanila JS with webpack
