@@ -1,1 +1,1 @@
-#Simple responsive food delivery service website on vanila JS with webpack
+Simple responsive food delivery service website on vanila JS with webpack
