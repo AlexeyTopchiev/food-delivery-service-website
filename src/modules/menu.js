@@ -87,4 +87,4 @@ const menu = () => {
   }
 }
 
-menu()
+export default menu

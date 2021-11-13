@@ -1,0 +1,28 @@
+{
+  "name": "simple-food-market",
+  "version": "1.0.0",
+  "description": "Simple food delivery service on pure JS",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "watch": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyTopchiev/simple-food-market.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeyTopchiev/simple-food-market/issues"
+  },
+  "homepage": "https://github.com/AlexeyTopchiev/simple-food-market#readme",
+  "devDependencies": {
+    "webpack": "^5.64.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "swiper": "^7.2.0"
+  }
+}

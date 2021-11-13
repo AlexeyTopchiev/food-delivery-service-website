@@ -1,5 +1,7 @@
 const partners = () => {
   const $cardsRestaurants = document.querySelector(".cards-restaurants")
+  const $modalAuth = document.querySelector(".modal-auth")
+  const $inputLogin = document.getElementById("login")
 
   const renderItems = data => {
     data.forEach(item => {
@@ -62,4 +64,4 @@ const partners = () => {
     .catch(error => console.log("###e:", error))
 }
 
-partners()
+export default partners
